@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Shirly
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Linux Cli
-- 📫 How to reach me via IG shirly_hello
+cyber security // raspberry pi
+
 
 <!---
 ShirlyHello/ShirlyHello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
